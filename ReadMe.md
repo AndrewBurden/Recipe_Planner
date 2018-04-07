@@ -1,4 +1,4 @@
-</b>Recipe Planner</b>
+<b>Recipe Planner</b>
 
 <b>INTRODUCTION</b>
 
@@ -30,5 +30,6 @@ and the project should be displayed.
   to save.
 5.To view your shopping list, hit the 'shopping list' button.
 
-</b>CONTRIBUTERS</b>
+<b>CONTRIBUTERS</b>
+
 Sierra Chugg, Andrew Burden, Ashish Pandrini, Dean Washah
