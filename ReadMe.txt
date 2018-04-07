@@ -1,20 +1,20 @@
-Recipe and Ingredient Software - README.txt
+</b>Recipe Planner</b>
 
-INTRODUCTION
----------------------
+<b>INTRODUCTION</b>
+
 This project is made to keep track of recipes and ingredients for the user.
 The user will also be able to keep track of a weekly meal plan. It will also
 keep track of what ingredients the user currently have, and will create a 
 shopping list of the things they need for their weekly plan.
 
-INSTALLATION
----------------------
+<b>INSTALLATION</b>
+
 To run the project, first run the SQL file using Oracle. This will create the 
 tables. Then download the project and open it using NetBeans. Choose to 'run',
 and the project should be displayed.
 
-USAGE
----------------------
+<b>USAGE</b>
+
 1.To search an ingredient or recipe, type what you are searching for in the 
   text box at the top, and hit 'search.' All relevent ingredients or recipes
   will be shown in the table. To see all, enter nothing.
@@ -30,6 +30,5 @@ USAGE
   to save.
 5.To view your shopping list, hit the 'shopping list' button.
 
-CONTRIBUTERS
----------------------
+</b>CONTRIBUTERS</b>
 Sierra Chugg, Andrew Burden, Ashish Pandrini, Dean Washah
